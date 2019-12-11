@@ -1,0 +1,89 @@
+
+/*Colors and Fonts*/
+
+div {
+	display: block;
+}
+
+
+.container{
+	width: 700px;
+	margin: 40px auto;
+}
+
+.card-white {
+	background-color: white;
+    padding: 40px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    margin: 20px 100px;
+    text-align: center;
+}
+
+
+.btn-blue{
+	background-color:#FEEDF4;
+	color: #421313;
+	padding: 10px 15px; 
+	border-radius: 4px; 
+}
+
+.btn-blue: hover {
+	background-color: #421313;
+	color: #FEEDF4 ;
+}
+
+.list-inline{
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li{
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i{
+	font-size: 50px;
+	color: #421313
+}
+
+.list-inline i: hover{
+	 color: red;
+}
+
+body {
+    background: #FEEDF4;
+    color: #421313;
+    font-family: 'Courier', serif;
+    font-size: 20px;
+    line-height: 1;
+    letter-spacing:0,5px;
+    display: block;
+}
+
+img {
+	border-radius: 50%;
+	border: 20px solid #FEEDF4
+}
+
+h1{
+	font-family: 'Courier', serif;
+	font-size: 40px;
+	letter-spacing: 10px;
+}
+
+    
+
+.a {
+	color: #421313; 
+	padding-left: 0px;
+}
+
+.a: hover {
+	color:#421313;
+}
+
+#introduction p {
+	margin-bottom: 40px;
+}
